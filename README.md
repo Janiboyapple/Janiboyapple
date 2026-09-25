@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👻 Ghostbyte
+# 👻 0xGhostX
 
 ```text
 > whoami
@@ -25,7 +25,7 @@ Sysadmin | Linux Enthusiast | Homelab
 
 ```yaml
 Name:        Jan
-Alias:       Ghostbyte
+Alias:       0xGhostX
 Role:        System Administrator
 OS:          Rocky Linux
 Editor:      Vim
